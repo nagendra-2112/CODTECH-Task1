@@ -5,7 +5,7 @@ Domain:Web development
 Duration:Aug to Sept 2024
 
 
-TO DO LIST OVERVIEW:
+PROJECT OVERVIEW:
 
 A To-Do List is a common web application that allows users to add, delete, and manage tasks. You can create a basic To-Do List using HTML, CSS, and JavaScript. Here's an overview of the code components involved:
 
